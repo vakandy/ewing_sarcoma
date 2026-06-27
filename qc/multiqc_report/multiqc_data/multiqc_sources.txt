@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR36910393_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910393_1_fastqc.zip
+FastQC	all_sections	SRR36910393_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910393_2_fastqc.zip
+FastQC	all_sections	SRR36910395_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910395_1_fastqc.zip
+FastQC	all_sections	SRR36910395_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910395_2_fastqc.zip
+FastQC	all_sections	SRR36910397_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910397_1_fastqc.zip
+FastQC	all_sections	SRR36910397_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910397_2_fastqc.zip
+FastQC	all_sections	SRR36910429_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910429_1_fastqc.zip
+FastQC	all_sections	SRR36910429_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910429_2_fastqc.zip
+FastQC	all_sections	SRR36910431_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910431_1_fastqc.zip
+FastQC	all_sections	SRR36910431_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910431_2_fastqc.zip
+FastQC	all_sections	SRR36910433_1	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910433_1_fastqc.zip
+FastQC	all_sections	SRR36910433_2	/home/vivek/Documents/ewing_sarcoma/qc/fastqc_reports/SRR36910433_2_fastqc.zip
