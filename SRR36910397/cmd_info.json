@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "data/reference/salmon_index",
+    "libType": "A",
+    "mates1": "data/raw_fastq/SRR36910397/SRR36910397_1.fastq",
+    "mates2": "data/raw_fastq/SRR36910397/SRR36910397_2.fastq",
+    "validateMappings": [],
+    "output": "quantification/SRR36910397",
+    "auxDir": "aux_info"
+}
